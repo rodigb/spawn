@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+keyring
+pydantic
+email-validator
+imap-tools
