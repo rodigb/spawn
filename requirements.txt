@@ -4,3 +4,4 @@ keyring
 pydantic
 email-validator
 imap-tools
+httpx
